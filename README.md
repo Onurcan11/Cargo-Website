@@ -1,9 +1,5 @@
 <h1>A Cargo Website Project</h1>
 <h2>Used Languages<h2>
-<ol>
-    <li>HTML5<li>
-    <li>CSS3<li>
-    <li>Bootstrap<li>
-<ol>
+<p> HTML5, CSS3, Bootstrap</p>
 
-![](ProjectGIF.gif)
+![](ProjecGIF.gif)
